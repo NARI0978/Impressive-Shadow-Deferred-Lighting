@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A beautiful world for you.",
+        "name": "Impressive Shadow Deferred Rendering [Pre v0.01]",
+        "uuid": "88907115-52a7-4c3f-bf66-21157089882f",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 20, 70 ]
+    },
+    "modules": [
+        {
+            "description": "A beautiful world for you.",
+            "type": "resources",
+            "uuid": "24962d47-fe0a-4f6c-9f4e-6c3f6b174891",
+            "version": [0, 0, 1]
+        }
+    ],
+		"capabilities": ["pbr"]
+}
