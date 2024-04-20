@@ -1,0 +1,35 @@
+{
+  "minecraft:color_grading_settings": {
+    "description": {
+      "identifier": "my_pack:default_color_grading"
+    },
+    "color_grading": {
+      "highlights": {
+        "highlightsMin": 0.5,
+        "saturation": [1.0, 1.0, 1.0],
+				"contrast": [1.2, 1.2, 1.2],
+        "gain": [1.1, 1.1, 1.1],
+				"gamma": [2.2, 2.2, 2.2],
+        "offset": [0.0, 0.0, 0.0],
+      },
+      "midtones": {
+        "saturation": [1.0, 1.0, 1.0],
+				"contrast": [1.0, 1.0, 1.0],
+        "gain": [1.0, 1.0, 1.0],
+				"gamma": [2.2, 2.2, 2.2],
+        "offset": [0.0, 0.0, 0.0],
+      },
+      "shadows": {
+        "shadowsMax": 1.0,
+				"saturation": [1.0, 1.0, 1.0],
+        "contrast": [1.0, 1.0, 1.0],
+        "gain": [1.0, 1.0, 1.0],
+				"gamma": [2.2, 2.2, 2.2],
+        "offset": [0.0, 0.0, 0.0],
+      }
+    },
+    "tone_mapping": {
+      "operator": "reinhard_luminance"
+    }
+  }
+}
