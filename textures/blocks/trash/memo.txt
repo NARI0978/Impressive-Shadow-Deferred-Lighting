@@ -18,3 +18,6 @@ blueの値が255だと粗い
 
 lantern_heightmapは効いてない
 torch_on_heightmapは効いてない
+
+黒が1だと凹む
+白が1だと凸る
