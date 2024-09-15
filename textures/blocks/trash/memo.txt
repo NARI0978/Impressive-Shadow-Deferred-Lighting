@@ -2,6 +2,8 @@ torchとiron_blockは画像制御なのでjsonと画像が必要。これから�
 
 それ以外は、metalness_emissive_roughnessで反射の具合を設定している。
 [128,    0,   255]で固定（発光、反射以外）
+[255,    0,   255]で反射なし
+
 [red, green, blue]
 red...反射
 0だと非金属（無反射）255だと金属（有反射）
