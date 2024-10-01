@@ -1,0 +1,101 @@
+{
+  "format_version": [1, 12, 30], 
+  "directional_lights": {
+    "sun": {
+      "illuminance": {
+				"0.00": 200.0, //noon
+				"0.23": 200.0,
+        "0.25": 50.0, //sunset
+				"0.30": 15.0,
+				"0.70": 10.0,
+        "0.75": 50.0, //sunrise
+				"0.80": 100.0
+      },
+      "color": [255, 200, 180, 0]
+    },
+    "moon": { 
+        "illuminance": {
+					"0.00": 200.0, //noon
+					"0.23": 200.0,
+					"0.25": 10.0, //Sunset
+					"0.30": 0.8,
+					"0.73": 0.8,
+					"0.75": 50.0, //Sunrise OK
+					"0.80": 100.0
+        },
+        "color": [255, 255, 255, 0]
+    } 
+  },
+  "point_lights": {
+    "colors": {
+			"minecraft:amethyst_cluster": [210, 160, 255],
+			"minecraft:beacon": [238, 255, 255],
+			"minecraft:campfire": [255, 130, 0],
+			"minecraft:cauldron": [255, 115, 0],
+			//"minecraft:conduit": [255, 255, 255],
+			"minecraft:cave_vines_body_with_berries": [255, 210, 40],
+			"minecraft:cave_vines_head_with_berries": [255, 210, 40],
+			"minecraft:copper_bulb": [255, 237, 130],
+			"minecraft:crying_obsidian": [95, 5, 170],
+			"minecraft:enchanting_table": [190, 255, 220],
+			"minecraft:end_portal": [20, 100, 115],
+			"minecraft:end_rod": [252, 240, 255],
+			"minecraft:ender_chest": [20, 100, 115],
+			"minecraft:exposed_copper_bulb": [255, 214, 130],
+			"minecraft:fire": [255, 110, 0],
+			"minecraft:flowing_lava": [255, 115, 0],
+			"minecraft:glow_lichen": [240, 255, 252],
+			"minecraft:glowstone": [255, 220, 150],
+			"minecraft:lantern": [255, 190, 120],
+			"minecraft:large_amethyst_bud": [210, 160, 255],
+			"minecraft:lava": [255, 115, 0],
+			"minecraft:lava_cauldron": [255, 115, 0],
+			"minecraft:lit_blast_furnace": [255, 211, 120],
+			"minecraft:lit_furnace": [255, 235, 175],
+			"minecraft:lit_pumpkin": [254, 255, 161],
+			"minecraft:lit_redstone_lamp": [255, 230, 140],
+			"minecraft:lit_smoker": [255, 204, 155],
+			"minecraft:magma": [255, 190, 70],
+			"minecraft:medium_amethyst_bud": [210, 160, 255],
+			"minecraft:ochre_froglight": [255, 200, 160],
+			"minecraft:oxidized_copper_bulb": [235, 197, 120],
+			"minecraft:pearlescent_froglight": [255, 200, 255],
+			"minecraft:portal": [150, 75, 220],
+			"minecraft:respawn_anchor": [55, 5, 100],
+			"minecraft:sculk_catalyst": [115, 220, 235],
+			"minecraft:sculk_sensor": [115, 220, 235],
+			"minecraft:sea_lantern": [226, 235, 228],
+			"minecraft:sea_pickle": [226, 235, 228],
+			"minecraft:shroomlight": [255, 225, 165],
+			"minecraft:small_amethyst_bud": [210, 160, 255],
+			"minecraft:soul_campfire": [70, 235, 255],
+			"minecraft:soul_fire": [70, 235, 255],
+			"minecraft:soul_lantern": [70, 235, 255],
+			"minecraft:soul_torch": [70, 235, 255],
+			"minecraft:torch": [255, 167, 65],
+			"minecraft:verdant_froglight": [150, 255, 150],
+			"minecraft:weathered_copper_bulb": [235, 197, 120],
+			"minecraft:waxed_copper_bulb": [255, 237, 130],
+			"minecraft:waxed_exposed_copper_bulb": [255, 214, 130],
+			"minecraft:waxed_oxidized_copper_bulb": [235, 197, 120],
+			"minecraft:waxed_weathered_copper_bulb": [235, 197, 120]
+  }
+},
+"pbr": { 
+        "blocks": { 
+					"global_metalness_emissive_roughness_subsurface": [0.0, 0.0, 255.0, 0.0]
+        },
+        "actors": { 
+					"global_metalness_emissive_roughness_subsurface": [0.0, 0.0, 255.0, 0.0]
+        },
+        "particles": { 
+					"global_metalness_emissive_roughness_subsurface": [0.0, 0.0, 255.0, 0.0]
+        },
+        "items": { 
+					"global_metalness_emissive_roughness_subsurface": [0.0, 0.0, 255.0, 0.0]
+        }
+    },
+    "emissive": {
+        "desaturation": 0.0
+    }
+} 

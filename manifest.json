@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "A beautiful world for you.\n(Pre v0.035)",
-        "name": "Impressive Shadow Deferred Lighting [Pre v0.035]",
-        "uuid": "553b5364-06d2-438a-8235-27bfca2a6f5e",
+        "description": "A beautiful world for you.\n(Pre v0.04)",
+        "name": "Impressive Shadow Deferred Lighting [Pre v0.04]",
+        "uuid": "c4564bb7-4a4e-4244-9257-838c82a3e0ff",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
         {
-            "description": "A beautiful world for you.\n(Pre v0.035)",
+            "description": "A beautiful world for you.\n(Pre v0.04)",
             "type": "resources",
-            "uuid": "fe4be7bc-a268-442f-8bae-ebac3267d528",
+            "uuid": "293c9745-e140-4eee-b8ae-f983b6a210fa",
             "version": [0, 0, 1]
         }
     ],

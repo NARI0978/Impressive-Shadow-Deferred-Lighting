@@ -1,25 +1,26 @@
 {
-    "minecraft:water_settings": {
-        "description": {
-            "identifier": "isdl:default_water"
-        },
-        "particle_concentrations": {
-            "chlorophyll": 0.5,
-            "suspended_sediment": 0.5,
-            "cdom": 1
-        },
-        "waves": {
-            "enabled": true,
-						"depth": 0.3,
-            "frequency": 1,
-						"frequency_scaling": 1.2,
-						"mix": 0.2,
-            "octaves": 28,
-						"pull": 0.38,
-            "sampleWidth": 0.01,
-						"shape": 1.5,
-            "speed": 2,
-            "speed_scaling": 1.0
-        }
+  "format_version": "1.21.40",
+  "minecraft:water_settings": {
+    "description": {
+      "identifier": "isdl:default_water"
+    },
+    "particle_concentrations": {
+      "chlorophyll": 0.5,
+      "suspended_sediment": 0.5,
+      "cdom": 1
+    },
+    "waves": {
+      "enabled": true,
+      "depth": 0.3,
+      "frequency": 1,
+      "frequency_scaling": 1.2,
+      "mix": 0.2,
+      "octaves": 28,
+      "pull": 0.38,
+      "sampleWidth": 0.01,
+      "shape": 1.5,
+      "speed": 2,
+      "speed_scaling": 1.0
     }
+  }
 }
