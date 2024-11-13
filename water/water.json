@@ -5,9 +5,9 @@
       "identifier": "isdl:default_water"
     },
     "particle_concentrations": {
-      "chlorophyll": 0.5,
-      "suspended_sediment": 0.5,
-      "cdom": 1
+      "chlorophyll": 0.1,
+      "suspended_sediment": 0.05,
+      "cdom": 0.1
     },
     "waves": {
       "enabled": true,
