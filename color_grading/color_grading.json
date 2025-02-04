@@ -6,29 +6,29 @@
     },
     "color_grading": {
       "midtones": {
-        "contrast": [0.9, 0.9, 0.9],
-        "gain": [2.2, 2.2, 2.2],
+        "saturation": [1.0, 1.0, 1.0],
+        "contrast": [1.0, 1.0, 1.0],
+        "gain": [2.4, 2.4, 2.4],
         "gamma": [1.6, 1.6, 1.6],
-        "offset": [0.0, 0.0, 0.0],
-        "saturation": [1.02, 1.02, 1.02]
+        "offset": [0.0, 0.0, 0.0]
       },
       "highlights": {
         "enabled": true,
         "highlightsMin": 3.0,
-        "contrast": [0.9, 0.9, 0.9],
-        "gain": [2.2, 2.2, 2.2],
+        "saturation": [1.0, 1.0, 1.0],
+        "contrast": [1.0, 1.0, 1.0],
+        "gain": [2.4, 2.4, 2.4],
         "gamma": [1.6, 1.6, 1.6],
-        "offset": [0.0, 0.0, 0.0],
-        "saturation": [1.05, 1.05, 1.05]
+        "offset": [0.0, 0.0, 0.0]
       },
       "shadows": {
         "enabled": true,
         "shadowsMax": 0.3,
-        "contrast": [0.9, 0.9, 0.9],
-        "gain": [2.2, 2.2, 2.2],
+        "saturation": [1.0, 1.0, 1.0],
+        "contrast": [1.0, 1.0, 1.0],
+        "gain": [2.4, 2.4, 2.4],
         "gamma": [1.6, 1.6, 1.6],
-        "offset": [0.0, 0.0, 0.0],
-        "saturation": [1.02, 1.02, 1.02]
+        "offset": [0.0, 0.0, 0.0]
       }
     },
     "tone_mapping": {
