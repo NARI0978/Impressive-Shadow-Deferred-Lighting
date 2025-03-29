@@ -6,19 +6,19 @@
     },
     "color_grading": {
       "midtones": {
-        "saturation": [1.0, 1.0, 1.0],
-        "contrast": [1.0, 1.0, 1.0],
-        "gain": [2.4, 2.4, 2.4],
-        "gamma": [1.6, 1.6, 1.6],
+        "saturation": [1.1, 1.1, 1.1],
+        "contrast": [0.97, 0.97, 0.97],
+        "gain": [1.7, 1.7, 1.65],
+        "gamma": [1.8, 2.0, 1.9],
         "offset": [0.0, 0.0, 0.0]
       },
       "highlights": {
         "enabled": true,
-        "highlightsMin": 3.0,
-        "saturation": [1.0, 1.0, 1.0],
-        "contrast": [1.0, 1.0, 1.0],
-        "gain": [2.4, 2.4, 2.4],
-        "gamma": [1.6, 1.6, 1.6],
+        "highlightsMin": 2.0,
+        "saturation": [1.05, 1.05, 1.05],
+        "contrast": [1.05, 1.05, 1.05],
+        "gain": [1.95, 1.95, 1.95],
+        "gamma": [2.0, 2.0, 2.0],
         "offset": [0.0, 0.0, 0.0]
       },
       "shadows": {
@@ -27,7 +27,7 @@
         "saturation": [1.0, 1.0, 1.0],
         "contrast": [1.0, 1.0, 1.0],
         "gain": [2.4, 2.4, 2.4],
-        "gamma": [1.6, 1.6, 1.6],
+        "gamma": [2.0, 2.0, 2.0],
         "offset": [0.0, 0.0, 0.0]
       }
     },
