@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:atmosphere_settings": {
     "description": {
-      "identifier": "isdl:default_atmospherics"
+      "identifier": "isdl:atmospherics_default"
     },
     "horizon_blend_stops": {
       "min": {

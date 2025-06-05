@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:water_settings": {
     "description": {
-      "identifier": "isdl:default_water"
+      "identifier": "isdl:water_default"
     },
     "particle_concentrations": {
       "chlorophyll": 0.1,
@@ -22,7 +22,7 @@
       "octaves": 26.5,
       "depth": 0.35,
       "sampleWidth": 0.01,
-      "speed": 2,
+      "speed": 1.25,
       "pull": 0.38,
       "mix": 0.2,
       "frequency_scaling": 1.2,
