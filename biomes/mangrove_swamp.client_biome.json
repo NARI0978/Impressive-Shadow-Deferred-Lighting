@@ -6,7 +6,7 @@
     },
     "components": {
       "minecraft:fog_appearance": {
-        "fog_identifier": "isdl:fog_default"
+        "fog_identifier": "minecraft:fog_mangrove_swamp"
       },
       "minecraft:water_appearance": {
         "surface_color": "#3a7a6a"
@@ -24,20 +24,17 @@
       "minecraft:dry_foliage_color": {
         "color": "#7B5334"
       },
-	  "minecraft:atmosphere_identifier": {
+      "minecraft:atmosphere_identifier": {
         "atmosphere_identifier": "isdl:atmospherics_default"
       },
       "minecraft:color_grading_identifier": {
         "color_grading_identifier": "isdl:color_grading_default"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "isdl:lighting_default"
+        "lighting_identifier": "isdl:default_lighting"
       },
       "minecraft:biome_music": {
         "music_definition": "mangrove_swamp"
-      },
-			"minecraft:water_identifier": {
-        "water_identifier": "isdl:water_default"
       }
     }
   }

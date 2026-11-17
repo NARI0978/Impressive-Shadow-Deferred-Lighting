@@ -9,7 +9,7 @@
         "sky_color": "#b9b9b9"
       },
       "minecraft:fog_appearance": {
-        "fog_identifier": "isdl:fog_pale_garden"
+        "fog_identifier": "minecraft:fog_pale_garden"
       },
       "minecraft:water_appearance": {
         "surface_color": "#76889D"
@@ -30,10 +30,10 @@
         "color_grading_identifier": "isdl:color_grading_default"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "isdl:lighting_default"
+        "lighting_identifier": "isdl:default_lighting"
       },
       "minecraft:water_identifier": {
-        "water_identifier": "isdl:water_default"
+        "water_identifier": "isdl:default_water"
       }
     }
   }
